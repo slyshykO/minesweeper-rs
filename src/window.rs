@@ -1,5 +1,4 @@
 use std::sync::Once;
-
 use windows::{
     core::{w, Interface, Result, HSTRING, PCWSTR},
     Graphics::SizeInt32,

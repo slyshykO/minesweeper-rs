@@ -14,7 +14,6 @@ use interop::{
 };
 use minesweeper::Minesweeper;
 use window::Window;
-
 use windows::{
     core::Result,
     Win32::{

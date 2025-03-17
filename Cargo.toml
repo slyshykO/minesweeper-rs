@@ -13,13 +13,12 @@ windows-future = "0.1"
 version = "0.60.0"
 features = [
     "Foundation_Collections",
+    "Foundation_Numerics",
     "Graphics",
     "System",
     "UI_Composition_Desktop",
-    "Win32_Foundation",
     "Win32_Graphics_Gdi",
     "Win32_System_LibraryLoader",
-    "Win32_System_WinRT",
     "Win32_System_WinRT_Composition",
     "Win32_UI_WindowsAndMessaging",
 ]
